@@ -1,5 +1,19 @@
 *.class
 *.log
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+logs
+target
+/.bsp
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
 hs_err_pid*
+/.metals
+/.minesweeper/null
+/minesweeper/saves
+/node_modules/*
+/minesweeper/coverage
+/node_modules
+/.vscode
